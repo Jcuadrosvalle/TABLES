@@ -7,3 +7,4 @@ Table I lists the links ramified over connected sums of k\#(S2 × S3) from Chelt
 Table II lists the 79 links with torsion in Cheltsov’s list.
 ---
 Table III lists the links with torsion and $b_3 \not= 0$ in the Johnson-Koll ́ar list.
+---
