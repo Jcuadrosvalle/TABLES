@@ -1,6 +1,6 @@
 # Tables
 ---
-In this repository you will 4 tables:  Tables I, II and III.
+In this repository you will find 3 tables:  Tables I, II and III.
 ---
 Table I lists the links ramified over connected sums of k\#(S2 × S3) from Cheltsov’s list with the corresponding value of $k$
 ---
